@@ -1,4 +1,4 @@
-# Bleeding Cell Detection 
+# BleedDetect-CapsuleEndoVision  
 
 This README provides an overview of the work done in the Bleeding Cell Detection project. The project involves data augmentation, training a YOLOv8 model, and evaluating its performance on bleeding cell detection.
 
